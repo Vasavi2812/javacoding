@@ -1,0 +1,28 @@
+import java.util.*;
+class leftright
+{
+public static void main(String args[])
+{
+Scanner sc=new Scanner(System.in);
+int n,i,sum=0;
+System.out.println("enter size of your array");
+n=sc.nextInt();
+System.out.println("enter array elements");
+int a[]=new int[n];
+for(i=0;i<n;i++)
+{
+a[i]=sc.nextInt();
+}
+int l,r;
+l=sc.nextInt();
+r=sc.nextInt();
+for(i=0;i<n;i++)
+{
+if(l<=i)
+sum=sum+i;
+if(i>r)
+break;
+}
+System.out.print("the sum with in range inclusively is:"+sum);
+}
+}
