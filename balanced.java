@@ -35,3 +35,15 @@ System.out.println("stack not balanced");
 5
 23 12 25 34 36 
     
+Output:
+
+enter the size of an array
+stack not balanced
+
+4
+1 2 3 4
+
+Output:
+
+enter the size of an array
+stack is balanced
