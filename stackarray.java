@@ -21,3 +21,5 @@ System.out.println(s);
 }
 }
     
+5
+23 45 17 67 69
