@@ -27,3 +27,10 @@ System.out.println(s);
 }
 }
     
+5
+23 12 25 34 36 
+
+Output:
+
+enter the size of an array
+[12, 34, 36]
