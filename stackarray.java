@@ -23,3 +23,9 @@ System.out.println(s);
     
 5
 23 45 17 67 69
+
+Output:
+
+enter the size of an array
+the array elements which are added to stack are : 
+[23, 45, 17, 67, 69]
