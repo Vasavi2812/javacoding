@@ -32,4 +32,6 @@ System.out.println("stack not balanced");
 }
 }
 
+5
+23 12 25 34 36 
     
